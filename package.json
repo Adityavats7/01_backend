@@ -1,0 +1,19 @@
+{
+  "name": "newbackend",
+  "version": "1.0.0",
+  "description": "this is the first learning backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Aditya Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
